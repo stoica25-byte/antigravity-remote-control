@@ -23,6 +23,12 @@ A secure, high-performance web dashboard for accessing the Antigravity IDE and O
 <!-- ![Dashboard HUD](docs/screenshots/dashboard.png) -->
 <!-- ![Mobile View](docs/screenshots/mobile.png) -->
 
+## 🧠 Second Brain Ecosystem Integration
+
+This Remote Control Center can operate standalone or seamlessly alongside an **Obsidian Second Brain** backend (running locally on port 8000):
+- **Standalone Mode**: Provides full IDE remote access, agent session browser, and mobile HUD.
+- **Combined Mode**: Use iniciar_servidores.bat to launch both the Remote Control API (port 8080) and Second Brain API (port 8000) together. Quick Capture notes submitted from your mobile device automatically sync with your Obsidian Vault.
+
 ## 🛠️ Tech Stack
 
 | Component | Technology |
@@ -117,6 +123,12 @@ Un panel de control web seguro y de alto rendimiento para acceder al IDE Antigra
 <img width="1350" height="768" alt="image" src="https://github.com/user-attachments/assets/9c291c8d-ded7-478e-9b4b-0454cfa4be2a" />
 <img width="1335" height="658" alt="image" src="https://github.com/user-attachments/assets/d6d51792-840d-46c8-be7b-f0d19821dd3a" />
 
+
+## 🧠 Integración con el Ecosistema Segundo Cerebro
+
+Este Centro de Control Remoto puede funcionar de forma independiente o en conjunto con una API de **Segundo Cerebro de Obsidian** (ejecutada localmente en el puerto 8000):
+- **Modo Independiente**: Acceso remoto completo al IDE, navegador de sesiones de agentes y panel HUD móvil.
+- **Modo Conjunto**: Usa iniciar_servidores.bat para arrancar simultáneamente el Control Remoto (puerto 8080) y la API del Segundo Cerebro (puerto 8000). Las notas capturadas rápidamente desde el móvil se sincronizan automáticamente con tu bóveda de Obsidian.
 
 ## 🛠️ Tecnologías
 
