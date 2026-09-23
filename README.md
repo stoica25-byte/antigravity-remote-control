@@ -115,11 +115,8 @@ Un panel de control web seguro y de alto rendimiento para acceder al IDE Antigra
 
 <!-- ¡Añade tus propias capturas de pantalla aquí! Reemplaza las rutas con tus capturas reales -->
 <img width="1350" height="768" alt="image" src="https://github.com/user-attachments/assets/9c291c8d-ded7-478e-9b4b-0454cfa4be2a" />
+<img width="1335" height="658" alt="image" src="https://github.com/user-attachments/assets/d6d51792-840d-46c8-be7b-f0d19821dd3a" />
 
-<!-- Consejo: Pulsa Win+Shift+S para capturar, guarda en docs/screenshots/, y descomenta las siguientes líneas -->
-
-<!-- ![Dashboard HUD](docs/screenshots/dashboard.png) -->
-<!-- ![Vista Móvil](docs/screenshots/mobile.png) -->
 
 ## 🛠️ Tecnologías
 
