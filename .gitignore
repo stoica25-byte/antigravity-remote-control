@@ -1,0 +1,40 @@
+# ===== Python =====
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# ===== Secrets & Local Config =====
+.env
+tunnel_url.txt
+temp_url.txt
+
+# ===== Tunnel Binaries =====
+cloudflared.exe
+ngrok.exe
+
+# ===== Logs =====
+*.log
+
+# ===== Cache & Personal Data =====
+db_secondbrain_cache.json
+db_dashboard.json
+
+# ===== Debug Scripts =====
+scratch/
+
+# ===== Vercel =====
+.vercel/
+
+# ===== IDE & OS =====
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Git backup (temporary)
+.git-backup/
