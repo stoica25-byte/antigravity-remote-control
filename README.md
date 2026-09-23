@@ -17,9 +17,11 @@ A secure, high-performance web dashboard for accessing the Antigravity IDE and O
 
 ## 📸 Screenshots
 
-| Desktop Dashboard | Mobile View |
-|---|---|
-| ![Dashboard HUD](docs/screenshots/dashboard_hud.jpg) | ![Mobile View](docs/screenshots/mobile_view.jpg) |
+<!-- Add your own screenshots here! Replace the paths below with your actual screenshots -->
+<!-- Tip: Press Win+Shift+S to capture, save to docs/screenshots/, then uncomment the lines below -->
+
+<!-- ![Dashboard HUD](docs/screenshots/dashboard.png) -->
+<!-- ![Mobile View](docs/screenshots/mobile.png) -->
 
 ## 🛠️ Tech Stack
 
@@ -111,9 +113,11 @@ Un panel de control web seguro y de alto rendimiento para acceder al IDE Antigra
 
 ## 📸 Capturas de pantalla
 
-| Dashboard de Escritorio | Vista Móvil |
-|---|---|
-| ![Dashboard HUD](docs/screenshots/dashboard_hud.jpg) | ![Vista Móvil](docs/screenshots/mobile_view.jpg) |
+<!-- ¡Añade tus propias capturas de pantalla aquí! Reemplaza las rutas con tus capturas reales -->
+<!-- Consejo: Pulsa Win+Shift+S para capturar, guarda en docs/screenshots/, y descomenta las siguientes líneas -->
+
+<!-- ![Dashboard HUD](docs/screenshots/dashboard.png) -->
+<!-- ![Vista Móvil](docs/screenshots/mobile.png) -->
 
 ## 🛠️ Tecnologías
 
