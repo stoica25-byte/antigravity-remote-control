@@ -130,6 +130,8 @@ Este Centro de Control Remoto puede funcionar de forma independiente o en conjun
 - **Modo Independiente**: Acceso remoto completo al IDE, navegador de sesiones de agentes y panel HUD móvil.
 - **Modo Conjunto**: Usa iniciar_servidores.bat para arrancar simultáneamente el Control Remoto (puerto 8080) y la API del Segundo Cerebro (puerto 8000). Las notas capturadas rápidamente desde el móvil se sincronizan automáticamente con tu bóveda de Obsidian.
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/17e8df4a-b723-41ec-8727-f3c1dad67c89" />
+
 ## 🛠️ Tecnologías
 
 | Componente | Tecnología |
